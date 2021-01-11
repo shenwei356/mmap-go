@@ -1,3 +1,5 @@
-module github.com/edsrzf/mmap-go
+module github.com/shenwei356/mmap-go
 
-require golang.org/x/sys v0.0.0-20181221143128-b4a75ba826a6
+go 1.16
+
+require golang.org/x/sys v0.0.0-20210110051926-789bb1bd4061
